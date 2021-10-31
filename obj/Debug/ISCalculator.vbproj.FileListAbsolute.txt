@@ -1,0 +1,12 @@
+D:\Mis loqueras\ISCalculator\ISCalculator\obj\Debug\ISCalculator.vbproj.AssemblyReference.cache
+D:\Mis loqueras\ISCalculator\ISCalculator\obj\Debug\ISCalculator.ISCalculator.resources
+D:\Mis loqueras\ISCalculator\ISCalculator\obj\Debug\ISCalculator.Resources.resources
+D:\Mis loqueras\ISCalculator\ISCalculator\obj\Debug\ISCalculator.vbproj.GenerateResource.cache
+D:\Mis loqueras\ISCalculator\ISCalculator\obj\Debug\ISCalculator.vbproj.CoreCompileInputs.cache
+D:\Mis loqueras\ISCalculator\ISCalculator\bin\Debug\ISCalculator.exe.config
+D:\Mis loqueras\ISCalculator\ISCalculator\bin\Debug\ISCalculator.exe
+D:\Mis loqueras\ISCalculator\ISCalculator\bin\Debug\ISCalculator.pdb
+D:\Mis loqueras\ISCalculator\ISCalculator\bin\Debug\ISCalculator.xml
+D:\Mis loqueras\ISCalculator\ISCalculator\obj\Debug\ISCalculator.exe
+D:\Mis loqueras\ISCalculator\ISCalculator\obj\Debug\ISCalculator.xml
+D:\Mis loqueras\ISCalculator\ISCalculator\obj\Debug\ISCalculator.pdb
